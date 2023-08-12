@@ -1,10 +1,8 @@
 Hi 👋, I'm Minecoderz</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
-<img align="right",alt"Coding ",width="400" scr="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minecoderz&label=Profile%20views&color=0e75b6&style=flat" alt="minecoderz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minecoderz" alt="minecoderz" /></a> </p>
 
 - 🔭 I’m currently working on [Application Develpoment](https://sites.google.com/view/cosmic-gaming/home)
 
@@ -26,3 +24,6 @@ Hi 👋, I'm Minecoderz</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minecoderz&show_icons=true&locale=en&layout=compact" alt="minecoderz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minecoderz&show_icons=true&locale=en" alt="minecoderz" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minecoderz&label=Profile%20views&color=0e75b6&style=flat" alt="minecoderz" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minecoderz" alt="minecoderz" /></a> </p>
